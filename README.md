@@ -4,8 +4,7 @@
 
 <h3>Portfolio</h3>
 
-<a href="https://www.datascienceportfol.io/igor_ricardo" target="_blank">
-  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+<a href="https://www.datascienceportfol.io/igor_ricardo" target="_blank">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 </a>
 
 <h3>Skills</h3>
