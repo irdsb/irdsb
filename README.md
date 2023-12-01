@@ -1,3 +1,3 @@
 <div style="display: inline_block"><br>
-  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/python.svg/white" />
+  [![My Skills](https://skills.thijs.gg/icons?i=git,postgres, mysql, py,r figma&theme=dark)](https://skills.thijs.gg)
 </div>
