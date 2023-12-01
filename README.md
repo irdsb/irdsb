@@ -1,3 +1,7 @@
+<h3>Seja bem vindo(a)! 🖖</h3>
+
+Tenho experiência em automação de tarefas utilizando Python, consultas SQL, análise de dados, geração de relatórios e dashboards. Destaco-me pela minha capacidade analítica, análise de dados e habilidades com Excel, geração de insights, comunicação escrita e storytelling, Looker Data Studio e bancos de dados como PostgreSQL, MySQL e Oracle, além de processos de ETL (Extrair, Transformar e Carregar).
+
 <h3>Portfolio</h3>
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
@@ -12,7 +16,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<h3>Contact</h3>
+<h3>What I'm currently studying</h3>
+
+<h3>Contacts</h3>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
