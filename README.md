@@ -25,5 +25,6 @@
 <h3>Contacts</h3>
 
 <a href="https://www.linkedin.com/in/igoricardo/" target="_blank" title="Clique para ir para o LinkedIn">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="#" target="_blank" title="Clique para ir para o Kaggle">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
 
 📩 E-mail: irdsb@outlook.com.br
