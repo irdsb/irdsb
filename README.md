@@ -1,7 +1,8 @@
 <h3>Seja bem vindo(a)! 🖖</h3>
 
 <p>Estou em transição de carreira para a área de análise e ciência de dados.</p>
-<p>Tenho experiência em automação de tarefas utilizando Python, consultas SQL, análise de dados, geração de relatórios e dashboards. Destaco-me pela minha capacidade analítica, análise de dados e habilidades com Excel, geração de insights, comunicação escrita e storytelling, Looker Data Studio e bancos de dados como PostgreSQL, MySQL e Oracle, além de processos de ETL (Extrair, Transformar e Carregar).</p>
+<p>Tenho experiência em automação de tarefas utilizando Python, consultas SQL, análise de dados, geração de relatórios e dashboards.
+Destaco-me pela minha capacidade analítica, análise de dados e habilidades com Excel, geração de insights, comunicação escrita e storytelling, Looker Data Studio e bancos de dados como PostgreSQL, MySQL e Oracle, além de processos de ETL (Extrair, Transformar e Carregar).</p>
 
 <h3>Portfolio</h3>
 
