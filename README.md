@@ -3,7 +3,7 @@
 <p>Estou em transição de carreira para a área de análise e ciência de dados.</p>
 <p>Tenho experiência em automação de tarefas utilizando Python, consultas SQL, análise de dados, geração de relatórios e dashboards. Destaco-me pela minha capacidade analítica, análise de dados e habilidades com Excel, geração de insights, comunicação escrita e storytelling, Looker Data Studio e bancos de dados como PostgreSQL, MySQL e Oracle, além de processos de ETL.</p>
 
-<h3>Portfolio</h3>
+<h3>Portfolio:</h3>
 
 <a href="https://www.datascienceportfol.io/igor_ricardo" target="_blank" title="Clique para ir para o Portfolio">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
 
@@ -16,6 +16,11 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+</br>
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <h3>O que estou estudando no momento:</h3>
 
