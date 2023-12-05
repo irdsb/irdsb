@@ -35,3 +35,4 @@
 <a href="https://www.kaggle.com/igorricardosbarbosa" target="_blank" title="Clique para ir para o Kaggle">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
 
 📩 E-mail: irdsb@outlook.com.br
+📈 Tableau: https://public.tableau.com/app/profile/igor.ricardo/vizzes
