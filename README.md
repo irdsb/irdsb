@@ -3,6 +3,8 @@
 <p>Estou em transição de carreira para a área de análise e ciência de dados.</p>
 <p>Tenho experiência em automação de tarefas utilizando Python, consultas SQL, análise de dados, geração de relatórios e dashboards. Destaco-me pela minha capacidade analítica, análise de dados e habilidades com Excel, geração de insights, comunicação escrita e storytelling, Looker Data Studio e bancos de dados como PostgreSQL, MySQL e Oracle, além de processos de ETL.</p>
 
+🎯 Links Importantes: https://linktr.ee/irdsb
+
 <h3>Portfolio:</h3>
 
 <a href="https://www.datascienceportfol.io/igor_ricardo" target="_blank" title="Clique para ir para o Portfolio">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
@@ -35,5 +37,5 @@
 <a href="https://www.linkedin.com/in/igoricardo/" target="_blank" title="Clique para ir para o LinkedIn">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://www.kaggle.com/igorricardosbarbosa" target="_blank" title="Clique para ir para o Kaggle">![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)</a>
 
-📩 E-mail: irdsb@outlook.com.br
+📩 E-mail: irdsb@outlook.com.br</br>
 📈 Tableau: https://public.tableau.com/app/profile/igor.ricardo/vizzes
