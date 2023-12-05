@@ -5,9 +5,13 @@
 
 🎯 Links Importantes: https://linktr.ee/irdsb
 
+___
+
 <h3>📌 Portfolio:</h3>
 
 <a href="https://www.datascienceportfol.io/igor_ricardo" target="_blank" title="Clique para ir para o Portfolio">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>
+
+___
 
 <h3>📌 Habilidades:</h3>
 
@@ -23,6 +27,8 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+___
+
 <h3>📌 Já utilizei em algum momento:</h3>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -30,10 +36,14 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+___
+
 <h3>📌 O que estou estudando no momento:</h3>
 
 * Machine Laearning
 * GeneXus
+
+___
 
 <h3>📌 Contatos:</h3>
 
